@@ -101,3 +101,9 @@
 Изучить другой язык программирования для расширения кругозора (JavaScript, Python, GO, Rust и т.д)
 
 А и еще самое главное: прокачивайся и в других сферах, программирование не единственная вещь в мире
+
+Полезные ссылки:
+https://dckms.github.io/system-architecture/emacsway/it/self-education/self-education-for-software-engineer.html
+https://phptherightway.com
+
+
