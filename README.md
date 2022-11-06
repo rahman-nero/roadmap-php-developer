@@ -106,5 +106,6 @@
 * https://dckms.github.io/system-architecture/emacsway/it/self-education/self-education-for-software-engineer.html
 * https://phptherightway.com
 * https://php.net
+* https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software
 
 
